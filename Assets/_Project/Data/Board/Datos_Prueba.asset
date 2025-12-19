@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 741dfe858572566449af4d33c50a3323, type: 3}
+  m_Name: Datos_Prueba
+  m_EditorClassIdentifier: 
+  nombreNodo: 
+  tipo: 4
+  icono: {fileID: 0}
+  colorDebug: {r: 0.9433962, g: 0.09344962, b: 0.09344962, a: 1}
+  costeBasePA: 1
+  descripcion: 
